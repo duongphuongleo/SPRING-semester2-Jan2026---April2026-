@@ -119,6 +119,9 @@ Week 5: Test 1
 
  
 # AutoCAD 2 - Instructor: Tim Gignac
+Continuing the development of students' skills with computer-aided design (CAD) software by introducing larger scale and more integrated projects, students apply the professional quality and standards for drawings in the civil/construction field.
+- The necessity for document control, cross referencing of details, and compliance with formal standards and field practices is key.
+
 👉 Final Group Project (week 12-14)
 - Project options: Parking lot grading, Plan & Profile
 - Presentation
