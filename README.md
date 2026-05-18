@@ -229,34 +229,34 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - County of Simcoe,
 - Tatham Engineering
 
-❖ Applied, has been replied, but yet successful: 
-- EXP: replied on March 4
+❖ Has been replied, but yet successful: EXP, replied on March 4
 
 ❖ Interviewed but yet successful: Duncor Enterprises (Barrie) , GEI Consultants (Barrie)
 
-👉 Duncor Enterprises, Barrie: interviewed on April 7, replied on April 13
+👉 Duncor Enterprises: interviewed on April 7, replied on April 13
 - Open position: 1
 - Application Deadline: March 26 at 12noon
 - Applied: March 12 at 4PM
+- Organization Information: Name of company, Division/City:
+- Contact Person:	Mr.Trevor Hammer, Divisional Manager
+- Job Post Information:
+  - Lab Technician 
+  - Location: Barrie, ON
+  - Start Date:	May 2026
+  - End Date:	
+  - Job Duties:
+
 - What do I Know more after the interview?
   - Interview by: Mr. Peter Smith, Lab Supervisor
   - Start Date: May 4
   - Work week: 8AM to 4:30PM Mon-Fri
   - PPE: Pass the ankle Safety boot, long pants, other PPE is provided in the lab
-  - The Lab postion is for: Quality Control the aggregates & emulsion for Duncor's product and in-house production process. Not for any clients/contractor's order request
-- Organization Information: Name of company, Division/City:
-- Contact Person:	Mr./Mrs., Divisional Manager/HR Administrator
-- Job Post Information:
-  - Lab Technician, 
-  - Location: Barrie, ON
-  - Start Date:	May 4
-  - End Date:	
-  - Job Duties:
+  - The Lab postion is for: Quality Control the aggregates & emulsion for Duncor's product and in-house production process. Not for any clients material testing/contractor's order
 
 
 
 👉 GEI Consultants, Barrie: interviewed on Feb 11, replied on March 16
-- Open position: 
+- Open position: 1
 - Application Deadline: at 12noon
 - Applied:  at PM
 - What do I Know more? (After the interview)
@@ -278,16 +278,13 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 - Organization Information: Soil Engineers Ltd., Division/City:	Richmond Hill
 - Contact Person:	Mrs. Lani Paparro, HR Administrator
 - Job Post Information:
+  - Field Technician - Material Testing & Inspection
+  - Location:	Central Ontario (Barrie, Peterborough, Huntsville)
+  - Job Duties:
+    - Travel to construction sites throughout Southern and Central Ontario and supervise construction activities.
+    - Duties Include: site inspection, material testing (soil, asphalt, concrete) using nuclear gauge, material sampling, data collection and general geotechnical work supervision.
 
-👉 Field Technician - Material Testing & Inspection
-
-👉 Location:	Central Ontario (Barrie, Peterborough, Huntsville)
-
-👉 Job Duties:
-- Travel to construction sites throughout Southern and Central Ontario and supervise construction activities.
-- Duties Include: site inspection, material testing (soil, asphalt, concrete) using nuclear gauge, material sampling, data collection and general geotechnical work supervision.
-
-👉 The ideal candidate must be able to: 
+The ideal candidate must be able to: 
 - communicate effectively and demonstrate strong interpersonal skills.
 - must possess excellent verbal and written English skills,
 - be well organized,
