@@ -37,24 +37,35 @@ The course introduces us to construction materials, including types of soils, ag
 The course introduces us to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills we need for today's Engineering workplace.
 
-WEEK 1: Course Intro, Spreadsheet intro, Entering Data, Cell & Data formatting, Basic function start with "="
+WEEK 1, Jan 7: Course Intro, Spreadsheet intro, Entering Data, Cell & Data formatting, Basic function start with "="
 
-WEEK 2: IF functions
-WEEK 3: Sum functions, Count functions, Average functions, Date and Time functions
+WEEK 2, Jan 14: IF functions
+WEEK 3, Jan 21: Sum functions, Count functions, Average functions, Date and Time functions
   - sum functions: Sum(), Sumif(), Sumifs()
   - count functions: count(), countif(), countifs()
   - average functions: average(), averageif(), averageifs()
   - Today(),
 
-WEEK 4: Math rounding & Trig functions, VLookup and HLookup functions, Logical (and,or) functions
+WEEK 4, Jan 28: Math rounding & Trig functions, VLookup and HLookup functions, Logical (and,or) functions
   - basic rounding: round(to indicated decimal place), roundup(), rounddown(), int(), trunc()
   - advance rounding: ceiling(), floor()
   - logic functions: and(, or(), rank(), max(), min()
 
-WEEK 5: Text and Information function
+WEEK 5, Feb 4: Text and Information function
   - concatenate(), replace(), locate()
 
-WEEK 6: 
+WEEK 6, Feb 11: Graphs and Charts
+WEEK 7, Feb 18: Mid Term (30%) before Study Week (Feb 23-27)
+WEEK 8, March 4: Pivot Tables and Dashboards/Control Panel for certain "filter" out of the data set
+WEEk 9, March 11: Intro to Quantity Estimating Part 1 - Basic above-ground road pavement layers
+- 
+WEEK 10, March 18:
+WEEK 11, March 25:
+WEEK 12, April 1: Engineering Drawing Interpretation review
+WEEK 13, April 8: Tender document, Final Exam review
+WEEK 14, April 15: Final Exam (30%)
+
+
 # Codes and Standards - Instructor: Tim Gignac
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
