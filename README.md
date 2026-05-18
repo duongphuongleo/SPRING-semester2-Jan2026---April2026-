@@ -1,5 +1,19 @@
 # -----semester 2 relevant courses include: ------
-#
+- MON
+  - Material Testing, Mr.Scott, Classroom time/Lecture, 8AM-9AM
+  - Material Testing, Mr.Scott, Lab, 2AM-4AM
+  - Dynamic Presentation, Mrs. Amanda, Online, All assignments due at 9PM, my hard deadline at 7PM
+- TUES
+  - Code and Standards, Tim, Classroom time/Lecture, 8AM-11AM
+  - Statics-Physics 2, Ryan, Classroom time/Lecture, 12PM noon-2PM
+- WED
+  - Quantity Estimation, Mr.Imad, Classroom time/Lecture, 9AM-12PM noon
+  - AutoCAD 2, Tim, Classroom time/Lecture, 1PM-4PM
+- THUR
+  - Statics-Physics 2, Ryan, Work period, 10AM-12PM noon
+- FRI
+  - Surveying 2, Joe, Classroom time/Lab practical session, 10AM-12PM noon
+
 # Material Science - Instructor: Michael Scott 
 The course introduces us to construction materials, including types of soils, aggregates involved in concrete and asphalt mix, and their applications in civil engineering projects. We're introduced to engineering standards and the standard test methods associated with these construction materials.
 
@@ -23,9 +37,10 @@ The course introduces us to construction materials, including types of soils, ag
 The course introduces us to Excel spreadsheets, tender documents, the reading of engineering drawings and basic estimation techniques.  
 Critical Thinking, Problem Solving, Numeracy, Information Management, and Communication are the skills we need for today's Engineering workplace.
 
-WEEK 1:
+WEEK 1: Course Intro, Spreadsheet intro, Entering Data, Cell & Data formatting, Basic function start with "="
+
 WEEK 2: IF functions
-WEEK 3: sum functions, count functions, average functions, Date and Time functions
+WEEK 3: Sum functions, Count functions, Average functions, Date and Time functions
   - sum functions: Sum(), Sumif(), Sumifs()
   - count functions: count(), countif(), countifs()
   - average functions: average(), averageif(), averageifs()
@@ -38,7 +53,8 @@ WEEK 4: Math rounding & Trig functions, VLookup and HLookup functions, Logical (
 
 WEEK 5: Text and Information function
   - concatenate(), replace(), locate()
-#
+
+WEEK 6: 
 # Codes and Standards - Instructor: Tim Gignac
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
 Topics includes:
@@ -216,7 +232,7 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 ❖ Applied, has been replied, but yet successful: 
 - EXP: replied on March 4
 
-❖ Interviewed but yet successful: 
+❖ Interviewed but yet successful: Duncor Enterprises (Barrie) , GEI Consultants (Barrie)
 
 👉 Duncor Enterprises, Barrie: interviewed on April 7, replied on April 13
 - Open position: 1
