@@ -60,8 +60,18 @@ WEEK 7, Feb 18: Mid Term (30%) before Study Week (Feb 23-27)
 
 WEEK 8, March 4: Pivot Tables and Dashboards/Control Panel for certain "filter" out of the data set
 
-WEEk 9, March 11: Intro to Quantity Estimating Part 1 - Basic above-ground road pavement layers
-- 
+WEEk 9, March 11: Intro to Quantity Estimating Part 1 (road pavement layers) & due In-class Assign 6
+- Estimation Assignment 1:
+  - 187KB, [Estimation Assignment #1_Solution.pdf](https://github.com/user-attachments/files/28022854/Estimation.Assignment.1_Solution.pdf)
+  - 389KB, [Assignment1 feedback for correction.pdf](https://github.com/user-attachments/files/28022871/Assignment1.feedback.for.correction.pdf)
+- In-class Assign 6:
+  - 315KB, [Lab #6 instruction.pdf](https://github.com/user-attachments/files/28022993/Lab.6.instruction.pdf)
+  - 111KB, [graded on Assignment+6_+Week9+CIVL+1001.pdf](https://github.com/user-attachments/files/28023017/graded.on.Assignment%2B6_%2BWeek9%2BCIVL%2B1001.pdf)
+  - Access Expire June 18, 2026, Excel [workbook](https://georgiancollege-my.sharepoint.com/:x:/g/personal/200639353_student_georgianc_on_ca/IQA7BVwvtl4qRqwzYDHjZ7efARbtqLkLFpVHwBzZul-r3m8?e=Ipxy92) 
+
+
+
+
 
 WEEK 10, March 18:
 
