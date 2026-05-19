@@ -315,3 +315,5 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
 ❖ (Past May 10, 2026) Perspective to secure an interview: Aecon Group Inc.
 - Toronto Co-op, Assistant Coordinator, Estimating (Applied on May 12)
 - Toronto Co-op, Assistant Coordinator, Design (Applied on May 13)
+
+❖ (Past May 18, 2026 & with Coop Employer Relation Consultant, Mrs. Maureen Koski support) Perspective to secure an interview: Bird Construction
