@@ -60,20 +60,24 @@ WEEK 7, Feb 18: Mid Term (30%) before Study Week (Feb 23-27)
 
 WEEK 8, March 4: Pivot Tables and Dashboards/Control Panel for certain "filter" out of the data set
 
-WEEk 9, March 11: Intro to Quantity Estimating Part 1 (road pavement layers) & due In-class Assign 6
-- Estimation Assignment 1:
+WEEk 9, March 11: Intro to Quantity Estimating Part 1 (road pavement layers) & due In-class Assign 6 covered week 8 material 
+- Submitted Estimation Assignment 1:
   - 187KB, [Estimation Assignment #1_Solution.pdf](https://github.com/user-attachments/files/28022854/Estimation.Assignment.1_Solution.pdf)
   - 389KB, [Assignment1 feedback for correction.pdf](https://github.com/user-attachments/files/28022871/Assignment1.feedback.for.correction.pdf)
-- In-class Assign 6:
+- Submitted In-class Assign 6:
   - 315KB, [Lab #6 instruction.pdf](https://github.com/user-attachments/files/28022993/Lab.6.instruction.pdf)
   - 111KB, [graded on Assignment+6_+Week9+CIVL+1001.pdf](https://github.com/user-attachments/files/28023017/graded.on.Assignment%2B6_%2BWeek9%2BCIVL%2B1001.pdf)
-  - Access Expire June 18, 2026, Excel [workbook](https://georgiancollege-my.sharepoint.com/:x:/g/personal/200639353_student_georgianc_on_ca/IQA7BVwvtl4qRqwzYDHjZ7efARbtqLkLFpVHwBzZul-r3m8?e=Ipxy92) 
+  - Access Expire June 18, 2026, Excel [workbook](https://georgiancollege-my.sharepoint.com/:x:/g/personal/200639353_student_georgianc_on_ca/IQA7BVwvtl4qRqwzYDHjZ7efARbtqLkLFpVHwBzZul-r3m8?e=Ipxy92)
+
+- Redo Estimation Assignment 1: Mon May 18, 2026
+- Redo Assignment 6: 
+
+WEEK 10, March 18: Quantity Estimating Part 1 (road pavement layers) & due In-class Assign 7 covered week 9 material 
+- Submitted in-class Assign 7, late submission 2 days later by email Outlook:
+  - 219KB, [Lab #7 instruction.pdf](https://github.com/user-attachments/files/28023541/Lab.7.instruction.pdf)
+  - Access Expire June 18, 2026, Excel [workbook](https://georgiancollege-my.sharepoint.com/:x:/g/personal/200639353_student_georgianc_on_ca/IQBqXjTbckcISKTBOfqLikiRAU5sjVErVbh3wWriFROV77E?e=NHQnkM)
 
 
-
-
-
-WEEK 10, March 18:
 
 WEEK 11, March 25:
 
