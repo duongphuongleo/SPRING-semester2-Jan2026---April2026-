@@ -55,14 +55,22 @@ WEEK 5, Feb 4: Text and Information function
   - concatenate(), replace(), locate()
 
 WEEK 6, Feb 11: Graphs and Charts
+
 WEEK 7, Feb 18: Mid Term (30%) before Study Week (Feb 23-27)
+
 WEEK 8, March 4: Pivot Tables and Dashboards/Control Panel for certain "filter" out of the data set
+
 WEEk 9, March 11: Intro to Quantity Estimating Part 1 - Basic above-ground road pavement layers
 - 
+
 WEEK 10, March 18:
+
 WEEK 11, March 25:
+
 WEEK 12, April 1: Engineering Drawing Interpretation review
+
 WEEK 13, April 8: Tender document, Final Exam review
+
 WEEK 14, April 15: Final Exam (30%)
 
 
@@ -297,12 +305,12 @@ Expanding upon the topics from SURV1001, we continue to develop intricate survey
     - Travel to construction sites throughout Southern and Central Ontario and supervise construction activities.
     - Duties Include: site inspection, material testing (soil, asphalt, concrete) using nuclear gauge, material sampling, data collection and general geotechnical work supervision.
 
-The ideal candidate must be able to: 
-- communicate effectively and demonstrate strong interpersonal skills.
-- must possess excellent verbal and written English skills,
-- be well organized,
-- flexible with their schedule and
-- be able to deliver results on time.
+  The ideal candidate must be able to: 
+    - communicate effectively and demonstrate strong interpersonal skills.
+    - must possess excellent verbal and written English skills
+    - be well organized,
+    - flexible with their schedule and
+  - be able to deliver results on time.
 
 ❖ (Past May 10, 2026) Perspective to secure an interview: Aecon Group Inc.
 - Toronto Co-op, Assistant Coordinator, Estimating (Applied on May 12)
