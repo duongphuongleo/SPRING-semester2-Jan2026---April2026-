@@ -118,7 +118,6 @@ WEEK 8, Mar 6: Intro to laser scanning, Survey equipment intergrated with techno
 WEEK 9, Mar 13: Intro to laser Level and Site Layout, due Lab4
 - Start Lab3 TOPO: Fri March 13
   - Fri Mar13 survey session progress
-    - 
 
 WEEK 10, Mar 20: Layout Survey, Lab 5 handouts
 - Submission documents:
