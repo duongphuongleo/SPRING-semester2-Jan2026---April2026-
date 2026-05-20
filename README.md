@@ -87,6 +87,39 @@ WEEK 13, April 8: Tender document, Final Exam review
 
 WEEK 14, April 15: Final Exam (30%)
 
+# Surveying 2 - Instructor: Joseph Markovic
+Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
+- Have experience in using Differential Levelling and Total Station equipment, taking bearing, angle and distance measurements, 
+- Organization habits of field note-taking practices and compose a summary in a Word document
+- Work as a group member and to provide signature of involvement in formal assessments
+
+WEEK 1, Jan 9: Course Intro (Syllabus and Course Outline), Review of SURV 1
+
+WEEK 2, Jan 16: What is GPS, history of GPS development (for guiding missile during past war), GPS Surveying, Global Coordinates System, Review of TS equipment, Assignment 1 handouts
+
+WEEK 3, Jan 23: Topo Survey Review, Review of TS operation, Assignment 2 handouts, due Assign1
+
+WEEK 4, Jan 30: Topo with Data Collector, Develop the skill to read site plans, Assignment 3 handouts, due Assign2
+
+WEEK 5, Feb 6: Topo with Data Collector continue,  Mid Term Review
+
+WEEK 6, Feb 13: Mid Term, due Assign3
+
+WEEK 7: Study Week (Feb 23-27)
+
+WEEK 8, Mar 6: Intro to laser scanning, Survey equipment intergrated with technology, Assignment 4 handouts
+
+WEEK 9, Mar 13: Intro to laser Level and Site Layout, due Assign4
+
+WEEK 10, Mar 20: Layout Survey, Assignment 5 handouts
+
+WEEK 11, Mar 27: Intro to Drone Mapping tech.
+
+WEEK 12, April 3: GOOD FRIDAY-no class
+
+WEEK 13, Aprl 10: Review for Test, due Assign5
+
+WEEK 14, April 17: Final Practical Exam
 
 # Codes and Standards - Instructor: Tim Gignac
 We develop understanding and application of practical standards from organizations such as the Ministry of Transportation Ontario (MTO), Ontario Provincial Standards (OPS), and municipal requirements. We then explore the application of these standards in CAD design and Appendix specification writing. 
@@ -246,11 +279,6 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 - WEEk 14: Final Day1 (calble&pulleys, beams equilibrium, method of section)
 - WEEK 14: Final Day2 (method of joint)
 
-# Surveying 2 - Instructor: Joseph Markovic
-Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
-- Have experience in using Differential Levelling and Total Station equipment, taking bearing, angle and distance measurements, 
-- Organization habits of field note-taking practices and compose a summary in a Word document
-- Work as a group member and to provide signature of involvement in formal assessments
 
 # Dynamic Presentation; Dynamic Communication - Online, Instructor: Amanda Quibell
 ❖ We practiced self and peer evaluation to improve presentation skills and are expected to develop professionalism as speakers and listeners in order to meet the learning outcomes.
