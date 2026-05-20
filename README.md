@@ -248,6 +248,9 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
+- Have experience in using Differential Levelling and Total Station equipment, taking bearing, angle and distance measurements, 
+- Organization habits of field note-taking practices and compose a summary in a Word document
+- Work as a group member and to provide signature of involvement in formal assessments
 
 # Dynamic Presentation; Dynamic Communication - Online, Instructor: Amanda Quibell
 ❖ We practiced self and peer evaluation to improve presentation skills and are expected to develop professionalism as speakers and listeners in order to meet the learning outcomes.
