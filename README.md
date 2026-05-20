@@ -89,11 +89,13 @@ WEEK 14, April 15: Final Exam (30%)
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
-- Organization practices of neat field note-taking and compose a summary in a Word document
-- Work as a group member and to provide signature of involvement in formal assessments
+- Organizational practices of decent handwritting field note-taking and compose a summary in a Word document
+- Work as a group member (with Barrett Groos and Jack Springall) and to provide signature of involvement in formal assessments
 - Have experience in using Differential Levelling and Total Station equipment
   - Manually and given by equipment: taking bearing, angle and distance measurements
   - TS and prism equipment set-up: measure slanted height (from ground to nearest height-line on the Prism and TS), input weather condition (temp., humidity, PPM), adjust for Prism Constant
+
+Schedule of Activities:
 
 WEEK 1, Jan 9: Course Intro (Syllabus and Course Outline), Review of SURV 1
 
@@ -109,15 +111,26 @@ WEEK 6, Feb 13: Mid Term, due Assign3
 
 WEEK 7: Study Week (Feb 23-27)
 
-WEEK 8, Mar 6: Intro to laser scanning, Survey equipment intergrated with technology, Assignment 4 handouts
 
-WEEK 9, Mar 13: Intro to laser Level and Site Layout, due Assign4
 
-WEEK 10, Mar 20: Layout Survey, Assignment 5 handouts
+WEEK 8, Mar 6: Intro to laser scanning, Survey equipment intergrated with technology, Lab 4 handouts
+
+WEEK 9, Mar 13: Intro to laser Level and Site Layout, due Lab4
+- Start Lab3 TOPO: Fri March 13
+  - Fri Mar13 survey session progress
+    - 
+
+WEEK 10, Mar 20: Layout Survey, Lab 5 handouts
+- Submission documents:
+  - 3.36 MB, [JM7_LAB3_DATA COLLECTOR TOPO_SURV 1003.pdf](https://github.com/user-attachments/files/28065807/JM7_LAB3_DATA.COLLECTOR.TOPO_SURV.1003.pdf)
+  - 4.46 KB, [SUV 1003_JM7_LAB #3_Mar 20,2026.txt](https://github.com/user-attachments/files/28065894/SUV.1003_JM7_LAB.3_Mar.20.2026.txt)
+
+
 
 WEEK 11, Mar 27: Intro to Drone Mapping tech.
 
 WEEK 12, April 3: GOOD FRIDAY-no class
+- Lab 5 CAD for lab3 topo data
 
 WEEK 13, Aprl 10: Review for Test, due Assign5
 
