@@ -89,9 +89,11 @@ WEEK 14, April 15: Final Exam (30%)
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
-- Have experience in using Differential Levelling and Total Station equipment, taking bearing, angle and distance measurements, 
-- Organization habits of field note-taking practices and compose a summary in a Word document
+- Organization practices of neat field note-taking and compose a summary in a Word document
 - Work as a group member and to provide signature of involvement in formal assessments
+- Have experience in using Differential Levelling and Total Station equipment
+  - Manually and given by equipment: taking bearing, angle and distance measurements
+  - TS and prism equipment set-up: measure slanted height (from ground to nearest height-line on the Prism and TS), input weather condition (temp., humidity, PPM), adjust for Prism Constant
 
 WEEK 1, Jan 9: Course Intro (Syllabus and Course Outline), Review of SURV 1
 
