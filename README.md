@@ -375,4 +375,19 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 - Toronto Co-op, Assistant Coordinator, Estimating (Applied on May 12)
 - Toronto Co-op, Assistant Coordinator, Design (Applied on May 13)
 
-❖ (Past May 18, 2026 & with Coop Employer Relation Consultant, Mrs. Maureen Koski support) Perspective to secure an interview: Bird Construction
+❖ (Past May 18, 2026), (with Coop Employer Relation Consultant, Mrs. Maureen Koski support): Bird Construction
+- Open position: 1
+- Applied: March 12 at 4PM
+- Organization Information: Name of company, Division/City:
+- Contact Person:	Ms. Aga , Divisional Manager
+- Job Post Information:
+  - Lab Technician 
+  - Location: Barrie, ON
+  - Start Date:	May 2026
+  - End Date:	
+  - Job Duties:
+
+- What do I Know more after the interview?
+  - Interview by: Mr. [Eddie Odette](https://www.linkedin.com/in/eddie-odette-68656369/) (Project Manager), Ms. [Aga Rajwani](https://www.linkedin.com/in/aga-rajwani-140a9312a/) (Talent Acquisition)
+  - Start Date: May 4
+  - Work week: 8AM to 4:30PM Mon-Fri
