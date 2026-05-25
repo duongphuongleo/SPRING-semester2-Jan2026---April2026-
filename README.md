@@ -306,13 +306,28 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 - Contact Person:	Ms. Aga Rajwani (Talent Acquisition)
 - Job Post Information:
   - Student Project Coordinator, Orillia ON
-  - Location: Barrie, ON
+  - Location: Orillia, ON
   - Start Date:	Sept 2026
   - End Date:	
   - Job Duties:
-  - What do I Know more after the interview?
+    - Field Coordination:
+      - Perform quantity takeoffs.
+      - Coordinate sub-trade work.
+      - Verify site conditions and coordinate with drawings = Follow the provided drawings: Verify site conditions and coordinate the scope of work to-do
+      - Supervise sub-trade work.
+      - Set up and maintain record keeping.
+      - Layout site lines and grades using total station. 
+    - Project Coordination:
+      - Coordinate drawings and work-specific scope/trades.
+      - Review trade quotes, verify material quantities, hours, and rates.
+      - Participate in project meetings.
+      - Conduct deficiency walks and update deficiency logs.
+      - Issue warranties.
+      - Take and coordinate progress photos = Take progress photos and coordinate those photos
+      - Update field drawings and produce as-built drawings.
+  - What do I Know more after the interview? Fri May22, online, 12:30pm-1pm
     - Interview by: Mr. [Eddie Odette](https://www.linkedin.com/in/eddie-odette-68656369/) (Project Manager), Ms. [Aga Rajwani](https://www.linkedin.com/in/aga-rajwani-140a9312a/) (Talent Acquisition)
-    - Start Date: June 2026
+    - Start Date: TBD, could start June 2026
     - Work week: 7AM to 4PM Mon-Fri
  
 
