@@ -300,6 +300,31 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 ❖ In this course, we had design and deliver a series of presentations that build our skills in storytelling, “how to” explanations, persuasion, and visual communication. The focus stays on clarity, audience connection, and using their voice and media in ways that support the speaker, not just slides.
 
 # Co-op semester
+❖ (Past May 18, 2026), (with Coop Employer Relation Consultant, Mrs. Maureen Koski support): Bird Construction
+- Open position: 1
+- Organization Information: Name of company, Division/City:
+- Contact Person:	Ms. Aga Rajwani (Talent Acquisition)
+- Job Post Information:
+  - Student Project Coordinator, Orillia ON
+  - Location: Barrie, ON
+  - Start Date:	Sept 2026
+  - End Date:	
+  - Job Duties:
+  - What do I Know more after the interview?
+    - Interview by: Mr. [Eddie Odette](https://www.linkedin.com/in/eddie-odette-68656369/) (Project Manager), Ms. [Aga Rajwani](https://www.linkedin.com/in/aga-rajwani-140a9312a/) (Talent Acquisition)
+    - Start Date: June 2026
+    - Work week: 7AM to 4PM Mon-Fri
+ 
+
+❖ (Past May 10, 2026) Aecon Group Inc.
+- Toronto Co-op, Assistant Coordinator, Estimating (Applied on May 12)
+- Toronto Co-op, Assistant Coordinator, Design (Applied on May 13)
+
+
+
+
+
+
 ❖ Applied and yet hear a reply: 
 - J.K Donald Consultants
 - Axicon Group Inc.
@@ -349,7 +374,7 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
   - End Date:
   - Job Duties:
 
-❖ (Past May 4, 2026) Perspective to secure an interview: Soil Engineer Ltd.
+❖ (Past May 4, 2026) Applied to: Soil Engineer Ltd.
 - Open position: 2
 - Application Deadline: May 14 at 12noon
 - Applied: May 3 at 2:30PM
@@ -363,31 +388,10 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
   - Job Duties:
     - Travel to construction sites throughout Southern and Central Ontario and supervise construction activities.
     - Duties Include: site inspection, material testing (soil, asphalt, concrete) using nuclear gauge, material sampling, data collection and general geotechnical work supervision.
-
-  The ideal candidate must be able to: 
+  - The ideal candidate must be able to: 
     - communicate effectively and demonstrate strong interpersonal skills.
     - must possess excellent verbal and written English skills
     - be well organized,
     - flexible with their schedule and
-  - be able to deliver results on time.
+    - be able to deliver results on time.
 
-❖ (Past May 10, 2026) Perspective to secure an interview: Aecon Group Inc.
-- Toronto Co-op, Assistant Coordinator, Estimating (Applied on May 12)
-- Toronto Co-op, Assistant Coordinator, Design (Applied on May 13)
-
-❖ (Past May 18, 2026), (with Coop Employer Relation Consultant, Mrs. Maureen Koski support): Bird Construction
-- Open position: 1
-- Applied: March 12 at 4PM
-- Organization Information: Name of company, Division/City:
-- Contact Person:	Ms. Aga , Divisional Manager
-- Job Post Information:
-  - Lab Technician 
-  - Location: Barrie, ON
-  - Start Date:	May 2026
-  - End Date:	
-  - Job Duties:
-
-- What do I Know more after the interview?
-  - Interview by: Mr. [Eddie Odette](https://www.linkedin.com/in/eddie-odette-68656369/) (Project Manager), Ms. [Aga Rajwani](https://www.linkedin.com/in/aga-rajwani-140a9312a/) (Talent Acquisition)
-  - Start Date: May 4
-  - Work week: 8AM to 4:30PM Mon-Fri
