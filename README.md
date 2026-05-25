@@ -299,39 +299,26 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 
 ❖ In this course, we had design and deliver a series of presentations that build our skills in storytelling, “how to” explanations, persuasion, and visual communication. The focus stays on clarity, audience connection, and using their voice and media in ways that support the speaker, not just slides.
 
-# Co-op semester
-❖ (Past May 18, 2026), (with Coop Employer Relation Consultant, Mrs. Maureen Koski support): Bird Construction
+# Co-op semester, student are intended to start May 4, 2026
+❖ (timeline: Past May 18, 2026), (with Coop Employer Relation Consultant, Mrs. Maureen Koski support): Bird Construction
 - Open position: 1
-- Organization Information: Name of company, Division/City:
 - Contact Person:	Ms. Aga Rajwani (Talent Acquisition)
 - Job Post Information:
   - Student Project Coordinator, Orillia ON
   - Location: Orillia, ON
   - Start Date:	Sept 2026
-  - End Date:	
+  - End Date:	4month/8month/12month coop
   - Job Duties:
-    - Field Coordination:
-      - Perform quantity takeoffs.
-      - Coordinate sub-trade work.
-      - Verify site conditions and coordinate with drawings = Follow the provided drawings: Verify site conditions and coordinate the scope of work to-do
-      - Supervise sub-trade work.
-      - Set up and maintain record keeping.
-      - Layout site lines and grades using total station. 
-    - Project Coordination:
-      - Coordinate drawings and work-specific scope/trades.
-      - Review trade quotes, verify material quantities, hours, and rates.
-      - Participate in project meetings.
-      - Conduct deficiency walks and update deficiency logs.
-      - Issue warranties.
-      - Take and coordinate progress photos = Take progress photos and coordinate those photos
-      - Update field drawings and produce as-built drawings.
+    - Field Coordination
+    - Project Coordination
+    - Scheduling
   - What do I Know more after the interview? Fri May22, online, 12:30pm-1pm
     - Interview by: Mr. [Eddie Odette](https://www.linkedin.com/in/eddie-odette-68656369/) (Project Manager), Ms. [Aga Rajwani](https://www.linkedin.com/in/aga-rajwani-140a9312a/) (Talent Acquisition)
-    - Start Date: TBD, could start June 2026
+    - Start Date: TBD
     - Work week: 7AM to 4PM Mon-Fri
  
 
-❖ (Past May 10, 2026) Aecon Group Inc.
+❖ (timeline: Past May 10, 2026) Aecon Group Inc.
 - Toronto Co-op, Assistant Coordinator, Estimating (Applied on May 12)
 - Toronto Co-op, Assistant Coordinator, Design (Applied on May 13)
 
@@ -378,7 +365,7 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 👉 GEI Consultants, Barrie: interviewed on Feb 11, replied on March 16
 - Open position: 1
 - Application Deadline: at 12noon
-- Applied:  at PM
+- Applied:
 - What do I Know more? (After the interview)
 - Organization Information: Name of company, Division/City:
 - Contact Person:	Mr./Mrs., Divisional Manager/HR Administrator
@@ -389,7 +376,7 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
   - End Date:
   - Job Duties:
 
-❖ (Past May 4, 2026) Applied to: Soil Engineer Ltd.
+❖ (timeline: Past May 4, 2026) Applied to: Soil Engineer Ltd.
 - Open position: 2
 - Application Deadline: May 14 at 12noon
 - Applied: May 3 at 2:30PM
