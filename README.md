@@ -30,6 +30,8 @@ The course introduces us to construction materials, including types of soils, ag
 
 
 👉 Ashphalt lab 4
+- Assignment 10: Asphalt pavement types of failure, interactive inspection
+  - 1.24 MB, [Assignment10_Inspecting Neighborhood Asphalt Pavement condition_CONS 1004.pdf](https://github.com/user-attachments/files/28271006/Assignment10_Inspecting.Neighborhood.Asphalt.Pavement.condition_CONS.1004.pdf)
 
 
 
@@ -304,14 +306,11 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 - Open position: 1
 - Contact Person:	Ms. Aga Rajwani (Talent Acquisition)
 - Job Post Information:
-  - Student Project Coordinator, Orillia ON
+  - Student Project Coop, Orillia ON
   - Location: Orillia, ON
   - Start Date:	Sept 2026
   - End Date:	4month/8month/12month coop
-  - Job Duties:
-    - Field Coordination
-    - Project Coordination
-    - Scheduling
+  - Job Duties: Field support, Project Coordination, update Scheduling
   - What do I Know more after the interview? Fri May22, online, 12:30pm-1pm
     - Interview by: Mr. [Eddie Odette](https://www.linkedin.com/in/eddie-odette-68656369/) (Project Manager), Ms. [Aga Rajwani](https://www.linkedin.com/in/aga-rajwani-140a9312a/) (Talent Acquisition)
     - Start Date: TBD
