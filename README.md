@@ -90,15 +90,27 @@ WEEK 13, April 8: Tender document process and terminology, Final Exam review
   - 
 - Tender terminology: last review May 27, 2026
   - Unit Price vs. Lump Sump contract
-  - Holdback: 10% holdback by the Owner, in case the project is not complete by contractor
-  - Performance Guarantee: accepted by most municipalities,
+    - Unit Price contract: sub-total * 13% HST
+      - may have some lump sump items 
+      - Sub-total = total items*(cost per item x quantity)
+      - Example: eating a home dish of white rice and omelet
+        - Items needed: 1 cooking pan, 1 small bag of rice, eggs, cooking oil, 2 pouch of salt & pepper
+    - Lump Sump contract: a set price set by contractor for the contract's define scope of work
+      - may have some unit price items
+      - Monthly payment: based on % work progress
+      - Example: getting a raise, eating out once a month for a year, do basic math to estimate how much it's going cost
+        - Go out to eat, then tap to pay
+  - Holdback: 10% money holdback by the Owner, in case the project is not complete by contractor
+  - Performance Guarantee: finalcan be accept by most municipalities
     - can be in these forms: bond, cheque, letter of credits
-    - worth 100% of the contract: if there is only the Performance Guarantee
-    - worth part of the contract: when there is also the Labor & Material Guarantee 
+    - usually worth 100% of the contract: if it's only the Performance Guarantee
+    - worth part of the contract: when there is also the Labor & Material Payment Guarantee 
   - Lien: legal instrument tied to real property, make sure everyone's work get paid
-    - Applied to General Contractor: make sure Sub-contractor gets paid
-    - Applied to Owner: make sure General Contractor gets paid
-  - Liquidated Damages: money penalty for work complete late, per work day on site OR per calendar day
+    - to General Contractor: make sure Sub-contractor gets paid
+    - to Owner: make sure General Contractor gets paid
+  - Liquidated Damages: money penalty for work complete late,
+    - per work day on site OR per calendar day
+    - a set dollar amount OR % of contract value
 
 WEEK 14, April 15: Final Exam (30%)
 
