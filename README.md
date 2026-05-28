@@ -85,14 +85,27 @@ WEEK 11, March 25:
 
 WEEK 12, April 1: Engineering Drawing Interpretation review
 
-WEEK 13, April 8: Tender document, Final Exam review
+WEEK 13, April 8: Tender document process and terminology, Final Exam review
+- Tender process: Design-Bid-Build (expand upon semester 1 Construction Practices)
+  - 
+- Tender terminology: last review May 27, 2026
+  - Unit Price vs. Lump Sump contract
+  - Holdback: 10% holdback by the Owner, in case the project is not complete by contractor
+  - Performance Guarantee: accepted by most municipalities,
+    - can be in these forms: bond, cheque, letter of credits
+    - worth 100% of the contract: if there is only the Performance Guarantee
+    - worth part of the contract: when there is also the Labor & Material Guarantee 
+  - Lien: legal instrument tied to real property, make sure everyone's work get paid
+    - Applied to General Contractor: make sure Sub-contractor gets paid
+    - Applied to Owner: make sure General Contractor gets paid
+  - Liquidated Damages: money penalty for work complete late, per work day on site OR per calendar day
 
 WEEK 14, April 15: Final Exam (30%)
 
 # Surveying 2 - Instructor: Joseph Markovic
 Expanding upon the topics from SURV1001, we continue to develop intricate surveying skills.
-- Organizational practices of decent handwritting field note-taking and compose a summary in a Word document
-- Work as a group member (with Barrett Groos and Jack Springall) and to provide signature of involvement in formal assessments
+- Organizational practices of readable handwritting field note-taking and compose a summary in a Word document
+- Work as a group member (with [Barrett Groos](https://www.linkedin.com/in/barrett-groos-39a62b398/) and [Jack Springall](https://www.linkedin.com/in/jack-springall-12090a356/) and to provide signature of involvement in formal assessments
 - Have experience in using Differential Levelling and Total Station equipment
   - Manually and given by equipment: taking bearing, angle and distance measurements
   - TS and prism equipment set-up: measure slanted height (from ground to nearest height-line on the Prism and TS), input weather condition (temp., humidity, PPM), adjust for Prism Constant
