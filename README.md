@@ -87,9 +87,8 @@ WEEK 12, April 1: Engineering Drawing Interpretation review
 
 WEEK 13, April 8: Tender document process and terminology, Final Exam review
 - Tender process: Design-Bid-Build (expand upon semester 1 Construction Practices)
-  - 
-- Tender terminology: last review May 27, 2026
-  - Unit Price vs. Lump Sump contract
+- Tender terminology: last review May 25, 2026
+  👉 Unit Price vs. Lump Sump contract
     - Unit Price contract: sub-total * 13% HST
       - may have some lump sump items 
       - Sub-total = total items*(cost per item x quantity)
@@ -100,15 +99,18 @@ WEEK 13, April 8: Tender document process and terminology, Final Exam review
       - Monthly payment: based on % work progress
       - Example: getting a raise, eating out once a month for a year, do basic math to estimate how much it's going cost
         - Go out to eat, then tap to pay
-  - Holdback: 10% money holdback by the Owner, in case the project is not complete by contractor
-  - Performance Guarantee: finalcan be accept by most municipalities
+  👉 Holdback: 10% money holdback by the Owner, in case the project is not complete by contractor
+  
+  👉 Performance Guarantee: finalcan be accept by most municipalities
     - can be in these forms: bond, cheque, letter of credits
     - usually worth 100% of the contract: if it's only the Performance Guarantee
     - worth part of the contract: when there is also the Labor & Material Payment Guarantee 
-  - Lien: legal instrument tied to real property, make sure everyone's work get paid
+  
+  👉 Lien: legal instrument tied to real property, make sure everyone's work get paid
     - to General Contractor: make sure Sub-contractor gets paid
     - to Owner: make sure General Contractor gets paid
-  - Liquidated Damages: money penalty for work complete late,
+  
+  👉 Liquidated Damages: money penalty for work complete late,
     - per work day on site OR per calendar day
     - a set dollar amount OR % of contract value
 
