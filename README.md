@@ -86,6 +86,7 @@ WEEK 11, March 25:
 WEEK 12, April 1: Engineering Drawing Interpretation review
 
 WEEK 13, April 8: Tender document process and terminology, Final Exam review
+
 👉 Tender Process
 
 👉 Types of contracts
@@ -96,13 +97,17 @@ WEEK 13, April 8: Tender document process and terminology, Final Exam review
 
 👉 Unit of measurement
 
-👉 Change of Order, Change Orders extra
+👉 Change of Order, Change Orders extra: (1st best option) mediation -> arbitration -> Litigation
+- mediation
+- arbitration: rely on 3rd party expertise and final decision
+- Litigation: court ruling & final
 
 - Tender process: Design-Bid-Build (expand upon semester 1 Construction Practices)
   - Design
   - Bid options: ReferForProposal or Firm Bid
   - Build:
 - Tender terminology: last review May 25, 2026
+
   👉 Unit Price vs. Lump Sump contract
     - Unit Price contract: sub-total * 13% HST
       - may have some lump sump items 
@@ -114,6 +119,7 @@ WEEK 13, April 8: Tender document process and terminology, Final Exam review
       - Monthly payment: based on % work progress
       - Example: getting a raise, eating out once a month for a year, do basic math to estimate how much it's going cost
         - Go out to eat, then tap to pay
+  
   👉 Holdback: 10% money holdback by the Owner, in case the project is not complete by contractor
   
   👉 Performance Guarantee: financial deposit, can be accept by most municipalities as Payment Bond
