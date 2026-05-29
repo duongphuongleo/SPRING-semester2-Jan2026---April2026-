@@ -208,6 +208,7 @@ Topics includes:
 👉 Conservation Authorities - WEEK 8
 - Lake Simcoe Region Conservation Authority (LSRCA); Lake Simcoe Protection Plan (LSPP),
 - Nottawasaga Conservation Authority (NVCA)
+- Relatable movie in 2026: Hoppers
 - WEEK 9: TEST 2
 
 👉 WEEK 10: City of Barrie and Inisfill Municipal Document
