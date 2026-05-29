@@ -97,10 +97,10 @@ WEEK 13, April 8: Tender document process and terminology, Final Exam review
 
 👉 Unit of measurement
 
-👉 Change of Order, Change Orders extra: (1st best option) mediation -> arbitration -> Litigation
-- mediation
-- arbitration: rely on 3rd party expertise and final decision
-- Litigation: court ruling & final
+👉 Change of Order, Change Orders extra: mediation -> arbitration -> Litigation
+- mediation, (1st good option)
+- arbitration: rely on 3rd party expertise and final decision, 2nd good option
+- Litigation: court ruling & final, take time & money
 
 - Tender process: Design-Bid-Build (expand upon semester 1 Construction Practices)
   - Design
@@ -117,8 +117,7 @@ WEEK 13, April 8: Tender document process and terminology, Final Exam review
     - Lump Sump contract: a set price set by contractor for the contract's define scope of work
       - may have some unit price items
       - Monthly payment: based on % work progress
-      - Example: getting a raise, eating out once a month for a year, do basic math to estimate how much it's going cost
-        - Go out to eat, then tap to pay
+      - Example: eating out once a month -> Go out to eat, then pay
   
   👉 Holdback: 10% money holdback by the Owner, in case the project is not complete by contractor
   
