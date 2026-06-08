@@ -351,19 +351,7 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 ❖ In this course, we had design and deliver a series of presentations that build our skills in storytelling, “how to” explanations, persuasion, and visual communication. The focus stays on clarity, audience connection, and using their voice and media in ways that support the speaker, not just slides.
 
 # Co-op semester, student are intended to start May 4, 2026
-❖ (timeline: Past May 18, 2026), (with Coop Employer Relation Consultant, Mrs. Maureen Koski support): Bird Construction
-- Open position: 1
-- Contact Person:	Ms. Aga Rajwani (Talent Acquisition)
-- Job Post Information:
-  - Student Project Coop, Orillia ON
-  - Location: Orillia, ON
-  - Start Date:	Sept 2026
-  - End Date:	4month/8month/12month coop
-  - Job Duties: Field support, Project Coordination, update Scheduling
-  - What do I Know more after the interview? Fri May22, online, 12:30pm-1pm
-    - Interview by: Mr. [Eddie Odette](https://www.linkedin.com/in/eddie-odette-68656369/) (Project Manager), Ms. [Aga Rajwani](https://www.linkedin.com/in/aga-rajwani-140a9312a/) (Talent Acquisition)
-    - Start Date: TBD
-    - Work week: 7AM to 4PM Mon-Fri
+
  
 
 ❖ (timeline: Past May 10, 2026) Aecon Group Inc.
@@ -386,8 +374,23 @@ We explore structures’ behavior in static equilibrium, we evaluate external an
 
 ❖ Has been replied, but yet successful: EXP, replied on March 4
 
-❖ Interviewed but yet successful: Duncor Enterprises (Barrie) , GEI Consultants (Barrie)
+❖ Interviewed but yet successful: Duncor Enterprises (Barrie) , GEI Consultants (Barrie), Bird Construction (Orillia)
 
+👉 Bird Construction: interviewed on May 22, replied on june 1
+👉 timeline: Past May 18, 2026), (with Coop Employer Relation Consultant, Mrs. Maureen Koski support)
+- Open position: 1
+- Contact Person:	Ms. Aga Rajwani (Talent Acquisition)
+- Job Post Information:
+  - Student Project Coop, Orillia ON
+  - Location: Orillia, ON
+  - Start Date:	Sept 2026
+  - End Date:	4month/8month/12month coop
+  - Job Duties: Field support, Project Coordination, update Scheduling
+  - What do I Know more after the interview? Fri May22, online, 12:30pm-1pm
+    - Interview by: Mr. [Eddie Odette](https://www.linkedin.com/in/eddie-odette-68656369/) (Project Manager), Ms. [Aga Rajwani](https://www.linkedin.com/in/aga-rajwani-140a9312a/) (Talent Acquisition)
+    - Start Date: TBD
+    - Work week: 7AM to 4PM Mon-Fri
+   
 👉 Duncor Enterprises: interviewed on April 7, replied on April 13
 - Open position: 1
 - Application Deadline: March 26 at 12noon
